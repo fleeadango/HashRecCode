@@ -1,2 +1,2 @@
 # HashRecCode
-To test deferent hash-based mf-cf methods
+To test different hash-based mf-cf methods
